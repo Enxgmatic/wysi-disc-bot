@@ -15,11 +15,11 @@ My first bot.<br><br>
 - $wysi 727
 - $wysi link
 - $wysi skill issue *(just pings once)* <br>
-<sub>The 727 alarm and the repeated skill issue alarm are automatic (but you need to specify the channel, as well as user in .env)</sub>
+<sub>Note: The 727 alarm and the repeated skill issue alarm are automatic (but you need to specify the channel, as well as user in .env)</sub>
 <br><br>
 
 ### Final words
 This is a really shit bot.  
-I coded it really poorly too. (like really poorly)  
+I coded it really poorly too (like *really poorly*).  
 But it is a great way to annoy your friends so its 10/10.  
 <sub>(Sincerely, please don't use this lmao)</sub>

@@ -3,7 +3,7 @@ My first bot.<br><br>
 
 ### Features
 - Every time it is 7:27 (AM and PM), the bot will ping everyone. *(Is hard coded for utc+8)*
-- Ping your friend and remind them every few hours that they have a skill issue!
+- Ping your friend every few hours to remind them that they have a skill issue!
 - Get quick access to Aireu's black rover video and watch it to your heart's content
 - Spam 727 quotes (and get banned in the process!)
 - And as always, remember to let wysi bot know whether they are a good or bad bot

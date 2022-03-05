@@ -6,7 +6,7 @@ My first bot.<br><br>
 - Ping your friend and remind them every few hours that they have a skill issue!
 - Get quick access to Aireu's black rover video and watch it to your heart's content
 - Spam 727 quotes (and get banned in the process!)
-- And as always, remember to let wysi bot know that they are a good or bad bot
+- And as always, remember to let wysi bot know whether they are a good or bad bot
 <br><br>
 
 ### All commands
